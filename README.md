@@ -1,32 +1,36 @@
-# 📊 Global Sales Performance Analytics — Excel Dashboard
+# Global Sales Performance Analytics — Excel Dashboard
 
-![Dashboard Preview](assets/dashboard_preview.png)
+<p align="center">
+  <img src="./assets/dashboard_preview.png" alt="Global Sales Performance Dashboard" width="100%">
+</p>
 
-## 📌 Project Overview
+## 📊 Project Overview
 
-This project presents an interactive **Sales Dashboard for 2026**, developed in Microsoft Excel to analyze sales performance, profitability, product performance, and geographic distribution.
+This project presents an interactive Sales Performance Dashboard developed using Microsoft Excel.
 
-The objective is to transform raw sales data into meaningful business insights through interactive visualizations and key performance indicators.
+The objective is to transform raw sales data into meaningful business insights through data analysis, interactive visualizations, and key performance indicators.
 
-This project demonstrates practical skills in **data analysis, business intelligence, data visualization, and dashboard design**.
+The dashboard provides an overview of sales performance, profitability, product categories, and geographic revenue distribution.
+
+This project demonstrates practical skills in data analysis, business intelligence, and data visualization.
 
 ---
 
 ## 🎯 Business Objectives
 
-The dashboard was designed to answer key business questions:
+The dashboard was designed to answer the following business questions:
 
 - What is the total revenue generated?
 - How does revenue evolve throughout the year?
 - How does gross profit change over time?
 - Which countries generate the highest revenue?
 - Which product categories contribute the most to revenue?
-- Which products have the highest sales volume?
-- What are the key sales performance indicators?
+- Which products generate the highest sales volumes?
+- How can sales performance be monitored through interactive KPIs?
 
 ---
 
-## 📊 Key Performance Indicators
+## 📈 Key Performance Indicators
 
 | KPI | Value |
 |---|---:|
@@ -39,58 +43,65 @@ The dashboard was designed to answer key business questions:
 
 ---
 
-## 📈 Dashboard Features
+## 🔍 Dashboard Features
 
-### 🔹 Sales Performance Analysis
+### 1. Sales Performance Analysis
+
 - Total revenue monitoring
 - Gross profit tracking
 - Average revenue analysis
 - Units sold overview
 
-### 🔹 Time-Series Analysis
-- Monthly revenue trends
-- Monthly gross profit trends
-- Identification of performance fluctuations
+### 2. Revenue & Profitability Trends
 
-### 🔹 Geographic Analysis
+- Monthly revenue evolution
+- Monthly gross profit evolution
+- Identification of performance fluctuations
+- Comparative analysis of revenue and profitability
+
+### 3. Geographic Analysis
+
 - Revenue distribution by country
 - Interactive geographic visualization
 - Identification of high-performing markets
 
-### 🔹 Product Analysis
+### 4. Product Performance Analysis
+
 - Revenue by product category
-- Top-performing products
+- Top-selling products
 - Sales volume comparison
+- Product performance monitoring
 
-### 🔹 Interactive Filters
-The dashboard includes interactive filters allowing users to explore the data by:
+### 5. Interactive Filters
 
-- Customer type
+The dashboard includes interactive filters to explore the data by:
+
+- Customer Type
 - Region
-- Sales channel
-- Product category
-- Order date
+- Sales Channel
+- Product Category
+- Order Date
 
 ---
 
-## 🛠️ Tools & Skills Demonstrated
+## 🛠️ Tools & Skills
 
-- Microsoft Excel
-- Data cleaning and preparation
-- Data aggregation
-- Pivot tables
-- KPI development
-- Data visualization
-- Interactive dashboard design
-- Business analysis
-- Data storytelling
+| Category | Skills |
+|---|---|
+| Tool | Microsoft Excel |
+| Data Analysis | Data preparation and aggregation |
+| Business Intelligence | KPI development and reporting |
+| Data Visualization | Charts, maps, and dashboards |
+| Analysis | Sales and profitability analysis |
+| Reporting | Interactive business dashboards |
+| Storytelling | Business insights and data visualization |
 
 ---
 
 ## 📂 Repository Structure
 
 ```text
-sales-dashboard-2026/
+global-sales-performance-analytics/
 │
 ├── README.md
 ├── README_FR.md
