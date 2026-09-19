@@ -1,7 +1,7 @@
 # Global Sales Performance Analytics — Excel Dashboard
 
 <p align="center">
-  <img src="./assets/dashboard_preview.png" alt="Global Sales Performance Dashboard" width="100%">
+  <img src="./dashboard_preview.PNG" alt="Global Sales Performance Analytics Dashboard" width="100%">
 </p>
 
 ## 📊 Project Overview
